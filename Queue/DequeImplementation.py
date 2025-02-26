@@ -1,0 +1,11 @@
+from collections import deque
+d = deque()
+d.append(2)
+d.append(4)
+d.append(6)
+d.append(8)
+print(d)
+d.popleft()
+print(d)
+d.pop()
+print(d)
