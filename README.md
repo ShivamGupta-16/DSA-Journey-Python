@@ -38,9 +38,9 @@ The solutions are categorized into different folders based on DSA topics:
 
 I'm learning DSA from multiple sources, including:
 
+- [PWSkills](https://pwskills.com/)
 - [LeetCode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [PWSkills](https://pwskills.com/)
 - YouTube tutorials & books
 
 ## ⭐ Keep Learning & Improving!
