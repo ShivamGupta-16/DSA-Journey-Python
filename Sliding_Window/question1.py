@@ -6,7 +6,6 @@ def maximum_sum_subarray(arr, k):
     while i < k :
         sum += arr[i]
         i+=1
-    ans = sum
     while i < len(arr):
         sum -= arr[i-k]
         sum+= arr[i]
