@@ -8,3 +8,4 @@ def integer_t0_binary(number):
 
 
 print(integer_t0_binary(4))
+
